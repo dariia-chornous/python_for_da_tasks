@@ -7,3 +7,4 @@
 - `hw_9_2_Словники,_набори,_кортежі` - Homework 4: Dictionaries, sets, tuples
 - `hw_9_2_Control_Flow` - Homework 5: Control flow
 - `hw_9_3_Цикл_for` - Homework 6: Cycle for
+- `hw_9_3_Comprehensions` - Homework 7: Comprehensions
