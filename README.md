@@ -9,3 +9,4 @@
 - `hw_9_3_Цикл_for` - Homework 6: Cycle for
 - `hw_9_3_Comprehensions` - Homework 7: Comprehensions
 - `hw_9_3_Цикл_while` - Homework 8: Cycle while
+- `9_4_Функціїї_Основи` - Homework 9: Functions. Basics.
