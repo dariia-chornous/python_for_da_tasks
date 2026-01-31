@@ -11,3 +11,4 @@
 - `hw_9_3_Цикл_while` - Homework 8: Cycle while
 - `9_4_Функціїї_Основи` - Homework 9: Functions. Basics.
 - `9_4_Функції_Продовження` - Homework 10: Functions. Continued
+- `9_5_Модулі_Винятки` - Homework 11: Modules. Exceptions
