@@ -12,3 +12,4 @@
 - `9_4_Функціїї_Основи` - Homework 9: Functions. Basics.
 - `9_4_Функції_Продовження` - Homework 10: Functions. Continued
 - `9_5_Модулі_Винятки` - Homework 11: Modules. Exceptions
+- `hw_10_1_Введення_у_Pandas_та_NumPy_` - Homework 13: Introduction to Pandas and NumPy
