@@ -15,3 +15,4 @@
 - `9_5_Класи` - Homework 12: Classes
 - `hw_10_1_Введення_у_Pandas_та_NumPy_` - Homework 13: Introduction to Pandas and NumPy
 - `hw_10_2_Основи_роботи_з_даними_у_Pandas` - Homework 14: Working with data in Pandas. Basics.
+-`hw_10_3_Розширені_методи_обробки_даних_у_Pandas`- Homework 15: Advanced data processing methods in Pandas
