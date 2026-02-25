@@ -18,3 +18,4 @@
 - `hw_10_3_Розширені_методи_обробки_даних_у_Pandas`- Homework 15: Advanced data processing methods in Pandas
 - `hw_10_4_apply,_groupby,_pivot_table` - Homework 16: Apply(), groupby(), pivot_table() in Pandas
 - `HW_11_1_Візуалізація_даних_з_Pandas_ipynb` - Homework 17: Data visualization with Pandas
+- `HW_11_2_Візуалізація_даних_з_Matplotlib` - Homework 18: Data visualization with Matplotlib
