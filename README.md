@@ -21,3 +21,4 @@
 - `HW_11_2_Візуалізація_даних_з_Matplotlib` - Homework 18: Data visualization with Matplotlib
 - `HW_11_3_Статистичні_візуалізації_з_Seaborn` - Homework 19: Statistical visualizations with Seaborn
 - `HW_12_1_Інтеграція_Python_та_SQL_запити_даних` - Homework 20: Integration of Python and SQL data queries
+- `HW_12_2_Внесення_оновлень_в_БД_і_робота_з_транзакціями` - Homework 21: Updating the DB and working with transactions
