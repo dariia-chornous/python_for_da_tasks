@@ -23,3 +23,4 @@
 - `HW_12_1_Інтеграція_Python_та_SQL_запити_даних` - Homework 20: Integration of Python and SQL data queries
 - `HW_12_2_Внесення_оновлень_в_БД_і_робота_з_транзакціями` - Homework 21: Updating the DB and working with transactions
 - `HW_12_3_Робота_з_АРІ_та_створення_ETL_пайплайну` - Homework 22: Working with ARI and creating an ETL-pipeline
+- `HW_15_2_Перевірка_статиcтичних_гіпотез_Z_test` - Homework 23: Z-test for statistical hypothesis testing
