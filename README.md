@@ -26,3 +26,4 @@
 - `HW_15_2_Перевірка_статиcтичних_гіпотез_Z_test` - Homework 23: Z-test for statistical hypothesis testing
 - `HW_15_3_Тести_для_малих_вибірок_та_пропорцій` - Homework 24: Tests for small samples and proportions
 - `HW_15_4_Аналіз_А_В_тестів` - Homework 25: A_B-test analysis
+- `HW_16_1_Прогнозування_орендної_плати_за_житло` - Homework 26: Forecasting housing rent
