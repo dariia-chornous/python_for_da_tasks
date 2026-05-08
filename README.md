@@ -28,3 +28,4 @@
 - `HW_15_4_Аналіз_А_В_тестів` - Homework 25: A_B-test analysis
 - `HW_16_1_Прогнозування_орендної_плати_за_житло` - Homework 26: Forecasting housing rent
 - `HW_16_2_Прогнозування_кредитного_ризику` - Homework 27: Credit risk forecasting
+- `HW_17_1_Чистий_код` - Homework 28: Clean code
